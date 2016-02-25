@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-solved
 
 conflict
-=======
 
-has conflict!!
-
->>>>>>> 204706e9fd65107b36947d1a76ea331bf32c2b65
